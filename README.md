@@ -9,7 +9,7 @@ We expect this data to be useful to both users and developers. It can be used to
 Currently the repository includes scaling data for the following models:
 
 * [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-ESM1.6)
-  * [dev-preindustrial+concentrations](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-ESM1.6/dev-preindustrial+concentrations.ipynb)
+  * [release-piControl-2.0](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-ESM1.6/piControl-2.0.ipynb)
 * [ACCESS-rAM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rAM3)
   * [u-by395/nci_access_ram3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rAM3/u-by395/nci_access_ram3.ipynb)
 * [ACCESS-OM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3)
@@ -29,3 +29,10 @@ We welcome feedback and contributions through the [ACCESS-Hive forum](https://fo
 ## Running the notebooks
 
 In case you are interested in running the notebooks, please follow [these instructions](docs/running_the_notebooks.md)].
+
+## Archived notebooks
+
+Outdated notebooks can be found in the [archive](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive). These include older versions of released configurations or development configurations that were in the meantime replaced by a release.
+
+* [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-ESM1.6)
+  * [dev-preindustrial+concentrations](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-ESM1.6/dev-preindustrial+concentrations.ipynb)
