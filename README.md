@@ -13,6 +13,7 @@ Currently the repository includes scaling data for the following models:
 * [ACCESS-rAM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rAM3)
   * [u-by395/nci_access_ram3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rAM3/u-by395/nci_access_ram3.ipynb)
 * [ACCESS-OM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3)
+  * [dev-MC_100km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_100km_jra_ryf.ipynb)
   * [dev-MC_25km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_25km_jra_ryf.ipynb)
   * [dev-MC_4km_jra_ryf+regionalpanan](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_4km_jra_ryf+regionalpanan.ipynb)
 
