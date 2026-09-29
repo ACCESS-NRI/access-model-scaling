@@ -17,7 +17,7 @@ Currently the repository includes scaling data for the following models:
   * [dev-MC_25km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_25km_jra_ryf.ipynb)
   * [dev-MCW_100km_era_iaf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MCW_100km_era_iaf.ipynb)
 * [ACCESS-rOM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rOM3)
-  * [MC_4km_regionalpanan_iceshelf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/panan4km_iceshelf.ipynb)
+  * [MC_4km_regionalpanan_iceshelf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rOM3/panan4km_iceshelf.ipynb)
 
 We expect to regularly add new models to this list and update the existing notebooks when new versions of the models are available.
 
@@ -35,11 +35,11 @@ In case you are interested in running the notebooks, please follow [these instru
 
 ## Archived notebooks
 
-Outdated notebooks can be found in the [archive](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive). These include older versions of released configurations or development configurations that were in the meantime replaced by a release.
+Outdated notebooks can be found in the [archived](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived). These include older versions of released configurations or development configurations that were in the meantime replaced by a release.
 
-* [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-ESM1.6)
-  * [dev-preindustrial+concentrations](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-ESM1.6/dev-preindustrial+concentrations.ipynb)
-* [ACCESS-OM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-OM3)
-  * [dev-MC_25km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-OM3/dev-MC_25km_jra_ryf.ipynb)
+* [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-ESM1.6)
+  * [dev-preindustrial+concentrations](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-ESM1.6/dev-preindustrial+concentrations.ipynb)
+* [ACCESS-OM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-OM3)
+  * [dev-MC_25km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-OM3/dev-MC_25km_jra_ryf.ipynb)
 * [ACCESS-rOM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-rOM3)
   * [dev-MC_4km_jra_ryf+regionalpanan](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-rOM3/dev-MC_4km_jra_ryf+regionalpanan.ipynb)
