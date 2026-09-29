@@ -14,7 +14,8 @@ Currently the repository includes scaling data for the following models:
   * [u-by395/nci_access_ram3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rAM3/u-by395/nci_access_ram3.ipynb)
 * [ACCESS-OM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3)
   * [dev-MC_25km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_25km_jra_ryf.ipynb)
-  * [dev-MC_4km_jra_ryf+regionalpanan](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_4km_jra_ryf+regionalpanan.ipynb)
+* [ACCESS-rOM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rOM3)
+  * [MC_4km_regionalpanan_iceshelf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/panan4km_iceshelf.ipynb)
 
 We expect to regularly add new models to this list and update the existing notebooks when new versions of the models are available.
 
@@ -36,3 +37,5 @@ Outdated notebooks can be found in the [archive](https://github.com/ACCESS-NRI/a
 
 * [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-ESM1.6)
   * [dev-preindustrial+concentrations](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-ESM1.6/dev-preindustrial+concentrations.ipynb)
+* [ACCESS-rOM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-rOM3)
+  * [dev-MC_4km_jra_ryf+regionalpanan](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-rOM3/dev-MC_4km_jra_ryf+regionalpanan.ipynb)
