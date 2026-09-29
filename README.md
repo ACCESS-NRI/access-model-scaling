@@ -15,6 +15,7 @@ Currently the repository includes scaling data for the following models:
 * [ACCESS-OM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3)
   * [dev-MC_100km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_100km_jra_ryf.ipynb)
   * [dev-MC_25km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_25km_jra_ryf.ipynb)
+  * [dev-MCW_100km_era_iaf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MCW_100km_era_iaf.ipynb)
 * [ACCESS-rOM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rOM3)
   * [MC_4km_regionalpanan_iceshelf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/panan4km_iceshelf.ipynb)
 
