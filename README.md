@@ -38,5 +38,7 @@ Outdated notebooks can be found in the [archive](https://github.com/ACCESS-NRI/a
 
 * [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-ESM1.6)
   * [dev-preindustrial+concentrations](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-ESM1.6/dev-preindustrial+concentrations.ipynb)
+* [ACCESS-OM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-OM3)
+  * [dev-MC_25km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archive/ACCESS-OM3/dev-MC_25km_jra_ryf.ipynb)
 * [ACCESS-rOM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-rOM3)
   * [dev-MC_4km_jra_ryf+regionalpanan](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/archived/ACCESS-rOM3/dev-MC_4km_jra_ryf+regionalpanan.ipynb)
