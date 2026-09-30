@@ -10,6 +10,9 @@ Currently the repository includes scaling data for the following models:
 
 * [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-ESM1.6)
   * [release-piControl-2.0](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-ESM1.6/piControl-2.0.ipynb)
+* [ACCESS-AM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-AM3)
+  * [release-n512e-1.0/nci_access_am3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-AM3/release-n512e-1.0/nci_access_am3.ipynb)
+  * [release-n96e-3.0/nci_access_am3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-AM3/release-n96e-3.0/nci_access_am3.ipynb)
 * [ACCESS-rAM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rAM3)
   * [u-by395/nci_access_ram3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rAM3/u-by395/nci_access_ram3.ipynb)
 * [ACCESS-OM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3)
